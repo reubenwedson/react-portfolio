@@ -14,8 +14,8 @@
       "state": "TZ",
       "zip": "TZ 255"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://thetimetrap.com",
+    "resumedownload": "https://drive.google.com/file/d/1Y0q0hL0udBxo35YgIVwcyOiazlZf3D-G/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -99,19 +99,19 @@
       {
         "title": "NextSMS",
         "category": "Bulk Sms Solution",
-        "image": "whatsapp-mern.jpeg",
+        "image": "nextsms.jpeg",
         "url": "https://nextsms.co.tz"
       },
       {
         "title": "NextSms RestAPI",
         "category": "API solution for developers to connect NextSMS",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "image": "api.jpeg",
+        "url": "http://bit.ly/api23n"
       },
       {
         "title": "TBS Online Application System",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
+        "category": "Import and Export Online System for Tanzania Bureau of Standards",
+        "image": "tbs_oas.png",
         "url": "https://oas.tbs.go.tz"
       }
     ]

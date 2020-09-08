@@ -26,5 +26,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reubenwedson/react-portfolio.git"
+  },
+  "keywords": [
+    "portifolio"
+  ],
+  "author": "Reuben Wedson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reubenwedson/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/reubenwedson/react-portfolio#readme"
 }
